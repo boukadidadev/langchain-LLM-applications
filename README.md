@@ -28,29 +28,7 @@ It showcases multiple real-world use cases that apply LLMs to solve business and
 - Email automation pipelines  
 - Structured outputs with Pydantic  
 
----
 
-# 🏗️ **Project Structure**
-
-#
-├── agents/
-│ ├── decision_agent.py
-│ ├── qa_agent.py
-│ └── tools/
-├── rag/
-│ ├── pdf_rag.ipynb
-│ ├── embeddings.py
-│ └── vectorstores/
-├── pipelines/
-│ ├── automated_processing.ipynb
-│ └── summarization_chain.py
-├── memory/
-│ ├── conversation_memory.ipynb
-├── notebooks/
-│ ├── langchain_intro.ipynb
-│ ├── QA_system_colab.ipynb
-│ └── multi_agent_demo.ipynb
-└── README.md
 
 # 🧩 **Technologies Used**
 - **Python**
