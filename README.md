@@ -32,7 +32,7 @@ It showcases multiple real-world use cases that apply LLMs to solve business and
 
 # 🏗️ **Project Structure**
 
-.
+#
 ├── agents/
 │ ├── decision_agent.py
 │ ├── qa_agent.py
@@ -51,11 +51,6 @@ It showcases multiple real-world use cases that apply LLMs to solve business and
 │ ├── QA_system_colab.ipynb
 │ └── multi_agent_demo.ipynb
 └── README.md
-
-yaml
-Copy code
-
----
 
 # 🧩 **Technologies Used**
 - **Python**
